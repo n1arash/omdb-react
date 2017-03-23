@@ -7,5 +7,4 @@ cache:
     - node_modules
 script:
   - npm test
-  - unset CI
   - npm start build
